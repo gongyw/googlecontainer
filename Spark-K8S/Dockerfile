@@ -1,0 +1,3 @@
+####
+FROM k8s.gcr.io/spark:1.5.1_v3
+MAINTAINER gong_yuwang@163.com
